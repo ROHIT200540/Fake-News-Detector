@@ -31,5 +31,5 @@ as Fake or Real.
 - Deep learning models
 
 ## Author
-Your Name
+ROHIT RAJESH
 
